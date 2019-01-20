@@ -1,7 +1,4 @@
-# Py-translator
-Simple python script that lets you translate words from terminal
-
-<h1> py-translator </h1>
+# py-translator
 
   <p> py-translator is a simple script that lets your translate word from the command line. By default the destination lanugae is Croatian,
   but that can't be changed with second argument </p>
